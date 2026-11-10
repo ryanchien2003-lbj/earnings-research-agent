@@ -1,0 +1,58 @@
+{
+  "facts": [
+    {
+      "id": "F25",
+      "period": "FY25 Q4",
+      "section": "Income statements · three months ended June 30, 2025",
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+      "revenue": 76441,
+      "operating_income": 34323,
+      "net_income": 27233,
+      "diluted_eps": 3.65
+    },
+    {
+      "id": "F24",
+      "period": "FY24 Q4",
+      "section": "Income statements · three months ended June 30, 2024",
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+      "revenue": 64727,
+      "operating_income": 27925,
+      "net_income": 22036,
+      "diluted_eps": 2.95
+    }
+  ],
+  "notes": [
+    {
+      "id": "N1",
+      "period": "FY25 Q4",
+      "section": "Earnings release · Intelligent Cloud",
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+      "keywords": "azure growth cloud services revenue currency",
+      "text": "Revenue for Azure and other cloud services rose 39% year over year in both reported and constant-currency terms."
+    },
+    {
+      "id": "N2",
+      "period": "FY25 Q4",
+      "section": "Earnings call · CFO, capital investment",
+      "url": "https://www.microsoft.com/en-us/investor/events/fy-2025/earnings-fy-2025-q4",
+      "keywords": "capex cap ex capital expenditures finance leases cash spending investment",
+      "text": "Quarterly capital spending was $24.2 billion, including $6.5 billion in finance leases. Cash payments for property and equipment were $17.1 billion."
+    },
+    {
+      "id": "N3",
+      "period": "FY25 Q4",
+      "section": "Earnings call · CFO, Azure outlook",
+      "url": "https://www.microsoft.com/en-us/investor/events/fy-2025/earnings-fy-2025-q4",
+      "keywords": "azure datacenter data center capacity constrained constraint guidance outlook demand",
+      "text": "At the July 2025 call, management expected Azure capacity constraints to last through the first half of FY26, even as it added datacenter capacity."
+    },
+    {
+      "id": "N4",
+      "period": "FY25 Q4",
+      "section": "Earnings release · Cloud revenue",
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+      "keywords": "microsoft cloud revenue growth currency total",
+      "text": "Microsoft Cloud revenue reached $46.7 billion, growing 27% year over year as reported and 25% in constant currency."
+    }
+  ]
+}
